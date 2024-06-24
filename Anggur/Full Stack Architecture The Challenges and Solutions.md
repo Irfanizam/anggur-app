@@ -34,4 +34,13 @@
 - Postman
 - Discord for notification early stage
 
-
+### App Idea
+- CRUD
+- Notification
+- Authorization / Registration
+  - Send email to confirm
+- Payment Gateway (Mock)
+- User Interaction (Optional)
+  - Chatbot (Mock)
+  - Ordering system
+- 

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Anggur/Anggur App.canvas",
                 "viewState": {
-                  "x": 654.5,
-                  "y": 645.6615714285715,
-                  "zoom": -1.1344087173270692
+                  "x": 369.6375711069811,
+                  "y": 152.11154826386942,
+                  "zoom": -0.4677420506604026
                 }
               }
             }
@@ -177,7 +177,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "4b0d09fed335c0ac",
+  "active": "122c76dc68349183",
   "lastOpenFiles": [
     "Anggur/Full Stack Architecture The Challenges and Solutions.md",
     "Job Hunt (7 April 2024).md",

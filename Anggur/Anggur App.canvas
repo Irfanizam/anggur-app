@@ -1,15 +1,6 @@
 {
   "nodes": [
     {
-      "id": "b15e9b24f5165e85",
-      "type": "file",
-      "file": "Anggur/Full Stack Architecture The Challenges and Solutions.md",
-      "x": -391,
-      "y": -257,
-      "width": 591,
-      "height": 1397
-    },
-    {
       "id": "a945bffa5614efe7",
       "type": "text",
       "text": "# Full Stack Web App",
@@ -90,6 +81,15 @@
       "y": -40,
       "width": 260,
       "height": 380
+    },
+    {
+      "id": "b15e9b24f5165e85",
+      "type": "file",
+      "file": "Anggur/Full Stack Architecture The Challenges and Solutions.md",
+      "x": -380,
+      "y": -286,
+      "width": 591,
+      "height": 1706
     }
   ],
   "edges": [],
