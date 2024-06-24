@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "id": "b15e9b24f5165e85",
+      "type": "file",
+      "file": "Anggur/Full Stack Architecture The Challenges and Solutions.md",
+      "x": -391,
+      "y": -257,
+      "width": 591,
+      "height": 1397
+    },
+    {
+      "id": "a945bffa5614efe7",
+      "type": "text",
+      "text": "# Full Stack Web App",
+      "shape": "oval",
+      "x": 840,
+      "y": -257,
+      "width": 400,
+      "height": 137
+    },
+    {
+      "id": "05551db141397c1b",
+      "type": "text",
+      "text": "# Week 1\n\n### June\n- 24/6/2024\n  - First meeting \n  - Rough sketch \n  - Install Obsidian\n  - Git Pull Obsidian Repo",
+      "x": 360,
+      "y": -40,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "e4681f4f2001f4fb",
+      "type": "text",
+      "text": "# Week 1\n## Objective\n- Get ideas online what to have as full fledge developer\n- Take note as well to pin any important reliable sources\n- Group it all\n- Minimum 1 person 3 information\n- Meeting for discussion on 28/6/2024\n- Sketch first approach requirement for week 2\n- Saturday Sunday rest ",
+      "x": 360,
+      "y": 412,
+      "width": 260,
+      "height": 508
+    },
+    {
+      "id": "a72bdb6018147278",
+      "type": "text",
+      "text": "# Week 2\n\n",
+      "x": 710,
+      "y": -41,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "8842e08faa2bab94",
+      "type": "text",
+      "text": "# Week 2\n",
+      "x": 710,
+      "y": 412,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "8e47553810f5abe8",
+      "type": "text",
+      "text": "# Week 3\n",
+      "x": 1080,
+      "y": 412,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "967fc577effc3220",
+      "type": "text",
+      "text": "# Week 4\n\n",
+      "x": 1440,
+      "y": -40,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "b3406650276d2a33",
+      "type": "text",
+      "text": "# Week 4\n",
+      "x": 1440,
+      "y": 412,
+      "width": 260,
+      "height": 380
+    },
+    {
+      "id": "1c622c1c3a10a351",
+      "type": "text",
+      "text": "# Week 3\n\n",
+      "x": 1080,
+      "y": -40,
+      "width": 260,
+      "height": 380
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

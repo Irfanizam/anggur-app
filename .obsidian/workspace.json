@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "15020826410fdb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f194581ab20ad13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122c76dc68349183",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Anggur/Anggur App.canvas",
+                "viewState": {
+                  "x": 654.5,
+                  "y": 645.6615714285715,
+                  "zoom": -1.1344087173270692
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a73645638698c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c2f2b87fb6f39d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b0d09fed335c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "8058b83f415a53c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f39675b606b7fcef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328
+  },
+  "right": {
+    "id": "4eb9609fc85340f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f797088ce7d56f",
+        "type": "tabs",
+        "dimension": 47.08392603129445,
+        "children": [
+          {
+            "id": "3b1564e1be8c9683",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anggur/Anggur App.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "621bbd86d7ff1876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anggur/Anggur App.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7a4b5bb53034f22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb88a4f81cf95b0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee0db78e0a166504",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anggur/Anggur App.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6b80d5b9a6603754",
+        "type": "tabs",
+        "dimension": 52.91607396870555,
+        "children": [
+          {
+            "id": "8a22775345c4c4b6",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-chat-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false,
+      "widgets:Add widget": false,
+      "gemini-assistant:New Gemini chat": false
+    }
+  },
+  "active": "4b0d09fed335c0ac",
+  "lastOpenFiles": [
+    "Anggur/Full Stack Architecture The Challenges and Solutions.md",
+    "Job Hunt (7 April 2024).md",
+    "Anggur/Anggur App.canvas",
+    "Nexea Angels Sdn Bhd/Main/Software Dev.canvas",
+    "Anggur/Untitled.canvas",
+    "Untitled.md",
+    "Anggur/Untitled/Untitled.canvas",
+    "Anggur/Untitled/Untitled.md",
+    "Untitled",
+    "Anggur/Untitled",
+    "Anggur",
+    "remote-blog/Test.md",
+    "2024-05-13.md",
+    "Widget/Today ❗.md",
+    "Widget/Soon ❗.md",
+    "Widget/Remember This ❗.md",
+    "Widget",
+    "Temp Notes/2024-03-20.md",
+    "Temp Notes/2024-03-18.md",
+    "Temp Notes",
+    "Routine/Schedule.md",
+    "Routine",
+    "Projects/Art Berat.png",
+    "Projects/Side Projects.canvas",
+    "Projects",
+    "Nexea Angels Sdn Bhd/Main",
+    "Nexea Angels Sdn Bhd",
+    "Games/Lost Ark/Untitled.canvas",
+    "Games/Lost Ark",
+    "Financial Statement/Projection Graph.canvas",
+    "Dos and Don'ts/To Don't List/List.md",
+    "Dos and Don'ts/To Do List/List.canvas",
+    "remote-blog/Job Hunt (7 April 2024).md",
+    "remote-blog/Widget/Today ❗.md",
+    "remote-blog/Widget/Soon ❗.md",
+    "remote-blog/Widget/Remember This ❗.md",
+    "remote-blog/Temp Notes/2024-03-20.md",
+    "remote-blog/Temp Notes/2024-03-18.md",
+    "remote-blog/Routine/Schedule.md",
+    "remote-blog/Nexea Angels Sdn Bhd/Main/Software Dev.canvas",
+    "remote-blog/Games/Lost Ark/Untitled.canvas",
+    "remote-blog/Dos and Don'ts/To Don't List/List.md",
+    "remote-blog/Projects/Art Berat.png",
+    "test.md",
+    "Nexea Angels Sdn Bhd/Main/Untitled.md",
+    "Software Developer Internship 🧑‍💼.md",
+    "Games/Lost Ark/Roster 🏛️.md",
+    "Pasted image 20240320141921.png",
+    "Financial Statement/Subfolder 1/Image.png"
+  ]
+}
